@@ -6,8 +6,8 @@ title_separator          : "-"
 name                     : &name "Xun Tang"
 description              : &description "Personal academic website of Xun Tang, Assistant Professor of Mathematics at HKUST."
 url                      : "https://xun-tang123.github.io"
-baseurl                  : "/Xun_lab_website"
-repository               : "Xun-Tang123/Xun_lab_website"
+baseurl                  : "/Xun_website"
+repository               : "Xun-Tang123/Xun_website"
 
 # Sidebar profile
 author:
