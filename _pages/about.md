@@ -1,34 +1,18 @@
 ---
-layout: about
-title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+title: "About"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor in the [Department of Mathematics at the Hong Kong University of Science and Technology](https://math.hkust.edu.hk/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research lies at the intersection of scientific computing, applied mathematics, and machine learning. I develop computational methods for high-dimensional problems, with a particular focus on tensor networks, optimal transport, and numerical representations of probability distributions and stochastic systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am looking for motivated Ph.D. students interested in scientific computing, tensor networks, and optimal transport. Prospective students are welcome to contact me by email.
+
+Before joining HKUST, I was a postdoctoral scholar at Stanford University, where I also completed my Ph.D. in Computational and Applied Mathematics under the supervision of Professor Lexing Ying. I received my B.Sc. in Mathematics from the University of Hong Kong.
+
+More information about my work is available on the [Research]({{ "/research/" | relative_url }}) page and in my [CV]({{ "/cv/" | relative_url }}).
